@@ -2,6 +2,7 @@
 Getting started 
 </h1>
 <p>First clone repository to your local machine</p>
+<code>git clone https://github.com/anshul45/backend.git</code>
 <p>Then run <code>npm install</code> to install all node modules</p>
 <h1>Add postgres to knex orm</h1>
 <p>You have to add values inside <code>/connectDb/knexfile.ts</code> </br> 
